@@ -1,0 +1,64 @@
+Copyright 2019 Avery Larsen
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of
+this software and associated documentation files (the "Software"), to deal in
+the Software without restriction, including without limitation the rights to
+use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of
+the Software, and to permit persons to whom the Software is furnished to do so,
+subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS
+FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR
+COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER
+IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
+CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+===============================================================================
+
+The Open Group Base Specifications Issue 7, 2018 edition
+IEEE Std 1003.1™-2017 (Revision of IEEE Std 1003.1-2008)
+Copyright © 2001-2018 IEEE and The Open Group
+
+The Open Group Base Specifications Issue 6/ 7 and IEEE Std
+1003.1-2001/1003.1-2008 (and subsequent technical corrigenda) are a joint work
+owned by The Open Group and the IEEE. The html/pdf versions of these documents
+are made available under the following terms and conditions (note that the pdf
+versions are restricted to the Open Group's members) :
+
+    1. You should note that The Open Group and the IEEE maintain full copyright
+    protection on these jointly owned publications.
+
+    2. You are permitted to read the HTML/pdf versions of these Open Group/IEEE
+    publications using your HTML browser/reader software and to download them
+    for your own personal use provided you have given your name and email
+    address for each publication requested. However, you are NOT permitted to
+    amend, copy, reprint, offer for sale, or otherwise re-use material from
+    these documents without explicit permission from The Open Group/IEEE. Your
+    personal data is used to enable Open Group/IEEE to gauge interest in the
+    documents, to enable The Open Group/IEEE to alert you to new editions and to
+    enable The Open Group/IEEE to send you details of any corrigenda. Your
+    personal details will not be disclosed by The Open Group/IEEE to any third
+    party
+    
+    5. Whilst The Open Group/IEEE will use its best endeavors to create HTML
+    versions that mirror the hard copy publications, there are bound to be
+    differences between the versions. The hard copy publication remains the
+    authoritative version for Testing and Certification and other purposes.
+    
+    4. The Open Group/IEEE reserve the right to charge for HTML versions of
+    their publications in the future.
+    
+    5. Readers who acquire the HTML/pdf version of The Open Group/IEEE
+    publications from a source other than The Open Group/IEEE should be
+    conscious of the fact that HTML/pdf is a revisable format and that the un-
+    official, probably illegal, version they acquire might have been changed
+    from the original.
+
+Permission to reproduce all or any part of this standard must be with the
+consent of both copyright holders and may be subject to a license fee. Both
+copyright holders will need to be satisfied that the other has granted
+permission.
