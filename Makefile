@@ -24,7 +24,8 @@ susv4-2018.tar.bz2:
 	$(info )
 	$(info Do you agree to the terms and conditions? [y/n])
 	@read agree; test "$$agree" = "y" -o "$$agree" = "Y"
-	curl -o susv4-2018.tar.bz2 http://pubs.opengroup.org/onlinepubs/9699919799/download/susv4-2018.tar.bz2
+	mkdir -p ${DOCUMENTS}
+	curl -o susv4-2018.tar.bz2 https://pubs.opengroup.org/onlinepubs/9699919799/download/susv4-2018.tar.bz2
 	tar -C ${DOCUMENTS} --strip-components=1 -xf susv4-2018.tar.bz2
 
 clean:
