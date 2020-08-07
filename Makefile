@@ -10,6 +10,9 @@ install: docSet.dsidx
 	find POSIX-1-2017.docset -type f -exec \
 		install -D "{}" "${HOME}/.local/share/Zeal/Zeal/docsets/{}" \;
 
+archive:
+	tar --exclude='.DS_Store' -cvzf POSIX-1-2017.tgz POSIX-1-2017.docset
+
 susv4-2018.tar.bz2:
 	$(info An archive of the HTML version of the The Open Group Base Specifications)
 	$(info Issue 7, 2018 Edition must first be downloaded from The Open Group)

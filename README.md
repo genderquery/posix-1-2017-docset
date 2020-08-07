@@ -22,6 +22,9 @@ Will install the Docset to `${HOME}/.local/share/Zeal/Zeal/docsets/`.
 - Install `POSIX-1-2017.docset` as appropriate
 
 ## TODO
-- Add an icon
-- Add table of contents
-- Package for https://github.com/Kapeli/Dash-User-Contributions
+- ~~Add an icon~~
+- Get/make better icon?
+- Add table of contents (requires rewrite)
+- ~~Package for https://github.com/Kapeli/Dash-User-Contributions~~
+- Submit the package to Dash User Contributions
+- Replace Makefile for portability
